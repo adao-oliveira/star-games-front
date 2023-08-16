@@ -1,4 +1,4 @@
-export const server = "https://star-games-cgrn.vercel.app//api/v2";
-export const backend_url = "https://star-games-cgrn.vercel.app/";
+export const server = "https://star-games-server.vercel.app/api/v2";
+export const backend_url = "https://star-games-server.vercel.app/";
 
 
